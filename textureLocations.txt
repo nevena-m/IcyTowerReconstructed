@@ -1,0 +1,23 @@
+NUM_OF_LOCATIONS:10
+LOCATION:assets/wall_pattern.bmp ID:WALL_TEX 0
+LOCATION:assets/step_pattern.bmp ID:STEP_TEX 0
+LOCATION:assets/denim.bmp ID:JEANS_TEX 0
+LOCATION:assets/shirt.bmp ID:SHIRT_TEX 0
+LOCATION:assets/face.bmp ID:FACE_TEX 0
+LOCATION:assets/welcome_text.bmp ID:WELCOME_TEX 1
+ID:WELCT_TXT (0,0) (1,1)
+LOCATION:assets/gameLost_text.bmp ID:GROUP1 2
+ID:LOST_TXT (0,0.3) (1,0.8)
+ID:EXIT_TXT (0,0) (1,0.3)
+LOCATION:assets/help_text.bmp ID:GROUP2 2
+ID:HELP_TXT (0,0.35) (1,0.9)
+ID:MINHELP_TXT (0,0.2) (1,0.4)
+LOCATION:assets/menu_text.bmp ID:GROUP3 4
+ID:INSTR_TXT (0,0.75) (1,1)
+ID:CONT_TXT (0,0.5) (1,0.75)
+ID:START_TXT (0,0.25) (1,0.5)
+ID:QUIT_TXT (0,0) (1,0.25)
+LOCATION:assets/titles_text.bmp ID:GROUP4 3
+ID:PAUSET_TXT (0,0.75) (1,0.9)
+ID:INSTRT_TXT (0,0.55) (1,0.75)
+ID:THANKS_TXT (0,0.2) (1,0.55)
